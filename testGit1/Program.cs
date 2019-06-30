@@ -7,7 +7,7 @@ namespace testGit1
         static void Main(string[] args)
         {
             Console.WriteLine("===================");
-            Console.WriteLine("-------------------");
+            Console.WriteLine("--------ccc-----------");
             Console.WriteLine("*****************");
             Console.ReadLine();
         }
